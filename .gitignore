@@ -1,0 +1,6 @@
+﻿# 典型的 CMake 忽略规则
+CMakeCache.txt
+CMakeFiles/
+*.o
+/build/
+*.log
