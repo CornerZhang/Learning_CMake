@@ -1,9 +1,18 @@
 ﻿# 典型的 CMake 忽略规则
 CMakeCache.txt
 CMakeFiles/
-*.o
-*.obj
 .idea/
+build/
+
 cmake-build-debug-visual-studio/
 cmake-build-release-visual-studio/
 *.log
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.so
+*.dylib
