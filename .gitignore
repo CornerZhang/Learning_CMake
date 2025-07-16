@@ -2,5 +2,8 @@
 CMakeCache.txt
 CMakeFiles/
 *.o
-/build/
+*.obj
+.idea/
+cmake-build-debug-visual-studio/
+cmake-build-release-visual-studio/
 *.log
